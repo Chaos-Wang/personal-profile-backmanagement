@@ -1,5 +1,5 @@
 ### 目录结构
-+blog-backManage                                    -后台管理
+      +blog-backManage                                    -后台管理
         +build                                              -webpack等打包用组件
             -...
         +config                                             -配置
