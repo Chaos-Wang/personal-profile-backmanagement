@@ -3,16 +3,16 @@ const path = require('path');
 module.exports = {
   db: {
     mysql: {
-      host: 'cdb-be25f4tj.gz.tencentcdb.com',
-      port:'10031',
+      host: '',
+      port:'',
       user: 'root',
-      password: 'w1549346071',
+      password: '',
       database: 'sites',
       connectionLimit: 10
     },
     redis: {
-      port: '6379',
-      host: 'chaoswang.cn',
+      port: '',
+      host: '',
       db: 0,
       options: {
         return_buffers: false,
