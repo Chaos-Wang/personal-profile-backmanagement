@@ -59,4 +59,4 @@
 ### Tips
     后台预设置密码账户: admin(123456)
     
-### [前端](https://git.chaoswang.cn/ChaosWong/personal-profile-vue)
+### [前端](https://github.com/Chaos-Wang/personal-profile-vue)
